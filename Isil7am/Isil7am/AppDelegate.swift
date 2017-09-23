@@ -10,7 +10,7 @@ import UIKit
 import CoreData
 //HOLA
 //mundo
-//Lucas
+//aloha
 @UIApplicationMain
 class AppDelegate: UIResponder, UIApplicationDelegate {
 
