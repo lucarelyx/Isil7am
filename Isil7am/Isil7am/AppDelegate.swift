@@ -13,7 +13,7 @@ import CoreData
 class AppDelegate: UIResponder, UIApplicationDelegate {
 
     //dshf
-    
+    //KENYI
     var window: UIWindow?
 
 
